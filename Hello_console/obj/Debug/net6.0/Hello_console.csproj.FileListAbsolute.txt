@@ -1,0 +1,15 @@
+/Users/arainay/GeekBrains/C sharp/Hello_console/bin/Debug/net6.0/Hello_console
+/Users/arainay/GeekBrains/C sharp/Hello_console/bin/Debug/net6.0/Hello_console.deps.json
+/Users/arainay/GeekBrains/C sharp/Hello_console/bin/Debug/net6.0/Hello_console.runtimeconfig.json
+/Users/arainay/GeekBrains/C sharp/Hello_console/bin/Debug/net6.0/Hello_console.dll
+/Users/arainay/GeekBrains/C sharp/Hello_console/bin/Debug/net6.0/Hello_console.pdb
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.csproj.AssemblyReference.cache
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.AssemblyInfoInputs.cache
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.AssemblyInfo.cs
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.csproj.CoreCompileInputs.cache
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.dll
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/refint/Hello_console.dll
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.pdb
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/Hello_console.genruntimeconfig.cache
+/Users/arainay/GeekBrains/C sharp/Hello_console/obj/Debug/net6.0/ref/Hello_console.dll
