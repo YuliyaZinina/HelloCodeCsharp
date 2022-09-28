@@ -8,14 +8,15 @@
 
 int[,] D = new int[,]
 {
-    {2, 4},
-    {3, 2}
+    {2, 3, 0},
+    {1, 0, 4}
 };
 
 int[,] E = new int[,]
 {
-    {3, 4},
-    {3, 3}
+    {1, 0},
+    {1, 4},
+    {0, 2}
 };
 
 int[,] F = GetProductMatrix (D, E);
@@ -27,8 +28,13 @@ int[,] GetProductMatrix (int[,] A, int[,] B)
     {
         for (int j = 0; j < B.GetLength(1); j++)
         {
-            C[i, j] = A[i, 0] * B[0, j] 
-                    + A[i, 1] * B[1, j];
+            
+            for (int k = 0; k < A.GetLength(1); k++)
+            {
+                int productElements = A[i, k] * B[k, j];
+                C[i, j] = C[i, j] + productElements;
+            }
+            
             Console.WriteLine(C[i, j]);
         }
     }
