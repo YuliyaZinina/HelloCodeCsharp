@@ -5,6 +5,7 @@
 
 int length = GetNewLength (firstArray);
 string[] newArray = CreateNewArray (firstArray, length);
+PrintArray (newArray);
 
 int GetNewLength (string[] array)
 {
@@ -37,4 +38,12 @@ string[] CreateNewArray (string[] array, int length)
   }
  
   return newArray;
+}
+
+void PrintArray (string[] array)
+{
+  for (int n = 0; n < array.Length; n++)
+      {
+        Console.WriteLine (array[n]);
+      }
 }
